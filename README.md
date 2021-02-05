@@ -13,38 +13,29 @@ This Application called Note Taker that can be used to write and save notes. Thi
 * [License](#license)
 
 ## Features
-* Create a team file by using a command-line 
+* Create a note by entering Title and Text
 
-![Screenshot](Develop/assets/images/command-lineQuestions.png)
+![Screenshot](assets/images/title_text.png)
 
-* Manager's card 
+* Save button appears once the text is entered
 
-![Screenshot](Develop/assets/images/manager.png)
+![Screenshot](assets/images/save_btn.png)
 
-* Engineer's card
+* Notes saved in the left column 
 
-![Screenshot](Develop/assets/images/engineer.png)
+![Screenshot](assets/images/app_ui.png)
 
-* Intern's card
-
-![Screenshot](Develop/assets/images/intern.png)
-
-* Generated the whole team's card 
-
-![Screenshot](Develop/assets/images/team.png)
 
 ## Installation 
 * Clone this repository.
-* Open repository in your browser.
-* Follow instructions on the video:
+* Open application live URL in your browser.
 
-https://drive.google.com/file/d/1KQdtzboYQuF70n4BoCBkvYYs0ca7xSMb/view?usp=sharing
+https://morning-shelf-52307.herokuapp.com/notes
+
 
 ## Tests
 
-* Unit tests stored in the test folder and can be run at any time with `npm run test`
-
-![Screenshot](Develop/assets/images/tests.png)
+* There are no tests yet for this application
 
 ## Known Bugs
 None
@@ -55,11 +46,11 @@ Please email me for further questions at nasozontova@gmail.com
 ## Technologies Used
 NodeJS
 JavaScript
-CSS
-Jest
+Express
+Heroku
 
 ## Contribution Guidlines
-Direct link to repository: https://github.com/NataliaSozontova/homeworkWeek10EmployeeSummary
+Direct link to repository: https://github.com/NataliaSozontova/week11NoteTaker
 
 ## License
 Copyright(c) 2021 Natalia Sozontova.
